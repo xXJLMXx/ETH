@@ -1,2 +1,3 @@
 # ETH
-Hackathon
+
+Mixed Reality Hackathon site.

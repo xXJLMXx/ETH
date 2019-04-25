@@ -1,3 +1,5 @@
 # ETH
 
-Mixed Reality Hackathon site.
+Mixed Reality Hackathon site. 
+
+https://erotechhackathon.com/
